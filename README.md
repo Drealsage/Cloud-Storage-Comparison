@@ -3,8 +3,7 @@ IBEAWUCHI EMMANUEL IFEANYI VUG/CSC/22/8079 CSC 302 LAB ACTIVITY
 The Cloud Storage Comparisons Betweeen AWS, GCP, And Microsoft Azure
 
 BELOW IS THE LINK TO MY GOOGLE DRIVE LINK
-https://drive.google.com/drive/folders/1yjgmabL9kpUVFRCuzBkMUDbj0SOsSZmH?usp=drive_link
-
+https://drive.google.com/drive/folders/1yjgmabL9kpUVFRCuzBkMUDbj0SOsSZmH?usp=sharing
 
 Cloud Computing: A Comparative Analysis of AWS, GCP, and Azure
 Cloud computing has transformed how businesses operate, offering scalable infrastructure, cost savings, and cutting-edge services. Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure are the three major players in this space, each with distinct strengths and ideal use cases. This summary provides a comparative analysis of these platforms, covering key services, advantages, limitations, and real-world applications.
